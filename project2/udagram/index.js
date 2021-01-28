@@ -1,0 +1,10 @@
+console.log('Hello World');
+let test;
+console.log(test);
+const test1 = 1;
+const test2 = null;
+let selectedColors = ["red", "green"];
+console.log(selectedColors);
+console.log(selectedColors);
+selectedColors[2] = 3;
+console.log(selectedColors);
